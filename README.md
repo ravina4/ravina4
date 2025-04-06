@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravina</h1>
-<h3 align="center">A software engineer from Colombia</h3>
+<h3 align="center">A software engineer from India</h3>
 
 ## 💬 Ask me about
 - Backend web development (Python, TypeScript, PHP)
