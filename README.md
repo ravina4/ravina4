@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ravina</h1>
+<h3 align="center">A software engineer from Colombia</h3>
 
-<!--
-**ravina4/ravina4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💬 Ask me about
+- Backend web development (Python, TypeScript, PHP)
+- Frontend web development (Vue.js, React.js)
+- Docker
+- Deep Learning and Machine Learning
+- Cloud Architecture
+- Design Patterns
+- Gardening (Bonsai enthusiast :evergreen_tree:)
+- Side projects (Lazy Link ft. @dmfigueroa)
 
-Here are some ideas to get you started:
+## 📅 Hobbies
+- Solve programming problems at Codeforces, UVa, LeetCode
+- Watch anime and TV shows
+- Read some manga
+- Play videogames
+- etc...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Current projects
+- viajin [WIP] - Side project
+- budget [WIP] - Side project
+- todo [WIP] - Side project
+
+## 📚 Learning
+- React.js with my wife 👩‍❤️‍👨
+- Hono.js with RPC
+- Remix
+- TypeScript
+- Cloudflare workers
+
+## 🎵 Spotify status
+
+<a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
+  <img src="https://jvillegasd-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
+</a>
+
+<!-- <div id = "some_issues">
+  <p>It is a little list of problems you can face while implementing this kind of stuff</p>
+  <ul id = "problem_list">
+    <li>
+      Github tend to cache anonymized URL, so you should visit this link if you have problem with image cache.
+      https://docs.github.com/es/github/authenticating-to-github/about-anonymized-image-urls
+    </li>
+    <li>
+      When you wrap your HTML in SVG/foreignObject maybe nothing show up. You can solve this issue visiting this link.
+      https://stackoverflow.com/questions/13848039/svg-foreignobject-contents-do-not-display-unless-plain-text
+    </li>
+  </ul>
+</div> -->
